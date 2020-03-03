@@ -47,3 +47,5 @@ prototype wireflow url: https://www.figma.com/file/n9RDO3jEsCijPChiwYyOJK/OutWri
 #### Typography
 
 - For typography, I also followed the original font exhibited on the original website. Since there is no information about the font used by the original website, I used an online font detector before choosing fonts and found a few font styles that the OutWrite Magazine website possibly uses. I narrowed down the style to Times New Roman font and tried to search the font on Figma first, but unfortunately, the application does not offer such a font. Then I searched for fonts similar to Times New Roman font and found a font named Lora that appears largely akin to Times New Roman. For readability, I chose to keep using one font on the website, but with different sizes, colors and capitalizations to distinguish title and body text. 
+
+![Add a little bit of body text](https://user-images.githubusercontent.com/59623164/75753546-e3f26f00-5cdf-11ea-93b4-e0ffd0149850.png)
