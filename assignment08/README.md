@@ -1,4 +1,6 @@
-# High-Fidelity-Prototype
+# High-Fidelity-Prototype - OutWrite Magazine 
+
+### DH150 Assignment08: High Fidelity Prototype by Naomi Deng
 
 Figma Prototype Preview: https://naominzd.github.io/High-Fidelity-Prototype/outwrite.html
 
