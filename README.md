@@ -38,6 +38,8 @@ prototype wireflow url: https://www.figma.com/file/n9RDO3jEsCijPChiwYyOJK/OutWri
 
 #### Image and Icons
 
-- For most pages, I keep the original imagery choices (example: article listing and their thumbnails) For the About page specifically, I designed and added a few pictures I found through UCLA affiliated imagery stock and online sources.  I chose these four immersive images because they all contain the same element – the rainbow flag, which represents the LGBTQ community. I choose to put three pictures on top, one on the bottom with the illustration in between to maintain a visual balance
+- For most pages, I keep the original imagery choices (example: article listing and their thumbnails) For the About page specifically, I designed and added a few pictures I found through UCLA affiliated imagery stock and online sources.  I chose these four immersive images because they all contain the same element – the rainbow flag, which represents the LGBTQ community. I choose to put three pictures on top, one on the bottom with the illustration in between to maintain a visual balance.
+
+<img width="551" alt="image" src="https://user-images.githubusercontent.com/59623164/75753386-83633200-5cdf-11ea-9892-7eaba9444ceb.png">
 
 - In addition, to add more images to the website, I also noticed that the website does not fully take advantage of website icons. For example, there are no social media icons exhibited on the page. Thus I added a few easily understandable icons to the header, such as the icon for search, help and social media outlets, so even novice-users would know which functions to use when they first visit the website. 
