@@ -33,3 +33,5 @@ prototype wireflow url: https://www.figma.com/file/n9RDO3jEsCijPChiwYyOJK/OutWri
 ![colorcontrast](https://user-images.githubusercontent.com/59623164/75753145-f61fdd80-5cde-11ea-840a-366bc8910d98.png)
 
 - On the right top corner on the home page, there are five distinctive buttons with different colors. I chose these colors from the graphics exhibited on the homepage for visual consistency. Additionally, I keep the original color of the Facebook application icon and Twitter icon to reassure users of the functionality of these two buttons. I did not choose to keep the color of the Instagram application as it conflicts with the pink color in the logo. Instead, I changed it to a pale/low-saturated green color to avoid too much color conflict within the color design. 
+
+<img width="640" alt="socialmedia" src="https://user-images.githubusercontent.com/59623164/75753202-20719b00-5cdf-11ea-9623-80dd19c42795.png">
