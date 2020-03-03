@@ -12,13 +12,13 @@ prototype wireflow url: https://www.figma.com/file/n9RDO3jEsCijPChiwYyOJK/OutWri
 
 ### Interactive Prototypes Supported by the System
 
-1. Find information through the Help page that support users, especially first-time users to navigate information more efficiently
+- Find information through the Help page that support users, especially first-time users to navigate information more efficiently
 
-2. An International subpage under COMMUNITY. This page helps international students to find news and support on a global scope
+- An International subpage under COMMUNITY. This page helps international students to find news and support on a global scope
 
-3. To learn more about OutWrite through browsing on the About page for promoting the organization as well as facilitating with marketing and outreach. 
+- To learn more about OutWrite through browsing on the About page for promoting the organization as well as facilitating with marketing and outreach. 
 
-4. To navigate specific information, topics or items in an efficient manner through using the Search interactive hover box. 
+- To navigate specific information, topics or items in an efficient manner through using the Search interactive hover box. 
 
-5. A HOME button on the home bar that reassure the visitors that they can go back to the original page anytime they want, and that they are at the right place. 
+- A HOME button on the home bar that reassure the visitors that they can go back to the original page anytime they want, and that they are at the right place. 
 
