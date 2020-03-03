@@ -24,7 +24,13 @@ prototype wireflow url: https://www.figma.com/file/n9RDO3jEsCijPChiwYyOJK/OutWri
 
 ### Prototype 
 
+#### Representative Screen Designs
+
 <img width="912" alt="allscreensnew" src="https://user-images.githubusercontent.com/59623164/75747636-54928f00-5cd2-11ea-9204-991445309306.png">
+
+#### Wireflow with Graphic Designs
+
+<img width="915" alt="wireflownew" src="https://user-images.githubusercontent.com/59623164/75754246-3c763c00-5ce1-11ea-8211-9b93a7d49955.png">
 
 #### Color
 
