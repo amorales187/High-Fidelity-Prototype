@@ -74,7 +74,7 @@
 
 3. When my user was performing task3 designed for Tim Benson (To find the About page, read about the information, then go to the Contact Us page to find contact information), she saw the underlined email address and automatically clicked on it. I added the underline to the email address actually for emphasis, whereas I might have overlooked the fact that underlining might be an indication of "this is clickable". Thus, I deleted the underlines for email addresses on the webpage to avoid confusion. 
 
-<img width="822" alt="underline" src="https://user-images.githubusercontent.com/59623164/75758788-60d61680-5ce9-11ea-8465-fb311081ddc8.png">
+<img width="822" alt="underline" src="https://user-images.githubusercontent.com/59623164/75759448-6f70fd80-5cea-11ea-9c98-ff9c2c1e295c.png">
 
 4. I realized when my user was scrolling down each page - my webpage designs did not have any foot bar. Usually, websites contain a foot bar for additional information (newsletter, privacy policy, legal terms), navigation, and sometimes social media. The original OutWrite magazine website has a foot bar too. Thus, based on the original design, I recreated a foot bar for each of my website prototype design. 
 
