@@ -4,6 +4,8 @@ Figma Prototype Preview: https://naominzd.github.io/High-Fidelity-Prototype/outw
 
 Prototype Wireflow URL: https://www.figma.com/file/n9RDO3jEsCijPChiwYyOJK/OutWrite-high-fid-prototype?node-id=0%3A1
 
+User Testing Video: https://drive.google.com/file/d/1n5zh8L44Fhu1NYfpg_4_x0VEEx8YgMHB/view?usp=sharing
+
 ## Brief Summary: Purposes and Process
 
 - This is a high-fidelity testing of the OutWrite Magazine website. The website prototype is created by Figma. The purpose of the testing is to examine the functions of three features (one added based on revision) designed based on the persona, Shu Li, Jack Wang, and Tim Benson. This high-fidelity prototype is transformed from the low-fidelity hand-drawn prototype with improved graphic elements, UI material components, and features. 
