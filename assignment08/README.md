@@ -24,7 +24,7 @@ User Testing Video: https://drive.google.com/file/d/1n5zh8L44Fhu1NYfpg_4_x0VEEx8
 
 - A HOME button on the home bar that reassure the visitors that they can go back to the original page anytime they want, and that they are at the right place. 
 
-## Prototype 
+## Prototype Design
 
 ### Representative Screen Designs
 
