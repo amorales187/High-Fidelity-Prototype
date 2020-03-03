@@ -26,3 +26,8 @@ prototype wireflow url: https://www.figma.com/file/n9RDO3jEsCijPChiwYyOJK/OutWri
 
 <img width="912" alt="allscreensnew" src="https://user-images.githubusercontent.com/59623164/75747636-54928f00-5cd2-11ea-9204-991445309306.png">
 
+#### Color
+
+- The graphical interface design process went smoothly because the published version of the OutWrite Magazine website already has an established and consistent outlook, and thus when I was creating the prototype, I primarily followed the constructed color theme, layout, and graphical elements, but with a few changes. First of all, the OutWrite website has an abundant amount of visual assets – illustrations, thumbnail pictures, and photos. Thus, for a relatively simple and clean outlook, I choose to stick with three colors: 1. The color of “OUT” from the logo #E8228C; 2. Black #000000; and 3. The gray color, #F5F5F5. However, I encountered a problem when I was checking with color contrast: the color of “OUT” and the gray color both fail to qualify for at least 4.5:1 ratio with the white background (#FFFFFF). Thus, I changed the saturation of both colors to get a slightly darker version of these two colors for a higher color contrast. 
+
+- On the right top corner on the home page, there are five distinctive buttons with different colors. I chose these colors from the graphics exhibited on the homepage for visual consistency. Additionally, I keep the original color of the Facebook application icon and Twitter icon to reassure users of the functionality of these two buttons. I did not choose to keep the color of the Instagram application as it conflicts with the pink color in the logo. Instead, I changed it to a pale/low-saturated green color to avoid too much color conflict within the color design. 
