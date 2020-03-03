@@ -58,7 +58,7 @@ User Testing Video: https://drive.google.com/file/d/1n5zh8L44Fhu1NYfpg_4_x0VEEx8
 
 ![Add a little bit of body text](https://user-images.githubusercontent.com/59623164/75753546-e3f26f00-5cdf-11ea-93b4-e0ffd0149850.png)
 
-### Revision
+### Revisions
 
 - Within the Figma page, there are two versions I created for High Fidelity Prototype. There are a few changes on the FINAL VERSION in comparison to the VERSION #1. The User Testing video URL is on the top of this page.
 
