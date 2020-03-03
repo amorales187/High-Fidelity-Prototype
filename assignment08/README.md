@@ -62,3 +62,18 @@ User Testing Video: https://drive.google.com/file/d/1n5zh8L44Fhu1NYfpg_4_x0VEEx8
 
 - Within the Figma page, there are two versions I created for High Fidelity Prototype. There are a few changes on the FINAL VERSION in comparison to the VERSION #1. The User Testing video URL is on the top of this page.
 
+1. When my user was performing the second task designed for Shu Li (To find the distinctive International page under COMMUNITY), she directly went clicking on the Search button, which made me realize a problem existed in this prototype - there is no default search page. A default search page may not be needed for my task, but it complies with a lot of users' first instinct whenever they go on a website for very specific information. Thus I added a separate default search page design to my original prototype design. 
+
+<img width="1091" alt="Defaultsearchpage" src="https://user-images.githubusercontent.com/59623164/75758678-47cd6580-5ce9-11ea-87a2-e797d6563340.png">
+
+2. When my user was performing each task, I noticed that whenever she tried to go back to the home page, she clicked on the "OUTWRITE" logo. I asked her if a HOME button on the home bar is necessary, she said she wouldn't say it's necessary but it's nice to have one to make sure she's doing the right thing. Additionally, she mentioned that clicking on the logo seems like the default way of going back to the home page. Therefore, I added a prototype that enables the logo to navigate back to the home page and I applied it to all of my page designs. 
+
+<img width="861" alt="prototypes" src="https://user-images.githubusercontent.com/59623164/75758744-561b8180-5ce9-11ea-9229-4271caba68c9.png">
+
+3. When my user was performing task3 designed for Tim Benson (To find the About page, read about the information, then go to the Contact Us page to find contact information), she saw the underlined email address and automatically clicked on it. I added the underline to the email address actually for emphasis, whereas I might have overlooked the fact that underlining might be an indication of "this is clickable". Thus, I deleted the underlines for email addresses on the webpage to avoid confusion. 
+
+<img width="822" alt="underline" src="https://user-images.githubusercontent.com/59623164/75758788-60d61680-5ce9-11ea-8465-fb311081ddc8.png">
+
+4. I realized when my user was scrolling down each page - my webpage designs did not have any foot bar. Usually, websites contain a foot bar for additional information (newsletter, privacy policy, legal terms), navigation, and sometimes social media. The original OutWrite magazine website has a foot bar too. Thus, based on the original design, I recreated a foot bar for each of my website prototype design. 
+
+<img width="832" alt="pagefooter" src="https://user-images.githubusercontent.com/59623164/75758819-69c6e800-5ce9-11ea-9179-3c234c84b5d9.png">
