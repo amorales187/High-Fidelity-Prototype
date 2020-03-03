@@ -10,4 +10,15 @@ prototype wireflow url: https://www.figma.com/file/n9RDO3jEsCijPChiwYyOJK/OutWri
 
 - The process takes place in terms of three full sequences of website activities users can perform on the website (through the prototype). The first sequence is developed based on persona Jack Wang. The first step of the sequence is to go to the Help page, then learn how to use the Search button-through reading the instructions on the help page, then approach the Search button through the home bar on the Help page, then go to the home page through clicking on “HOME” on the home bar. The second sequence is designed for Shu Li, an international student who tries to find international resources for support within the LGBTQ community. The entire process takes four steps: 1. Navigate COMMUNITY on the home bar; 2. Click to see the options on the dropdown menu; 3. Go to the International community page by clicking on “International”. 4. Go back to the home page by clicking on “HOME” on the home bar. The third sequence is created based on persona Tim Benson. The entire activity takes three steps to finish: 1. Go to the About page by clicking on “ABOUT” on the home bar (in my persona’s situation, he would read through the information about the organization); 2. Go to the Contact page by clicking on “CONTACT US” on the home bar. 3. Go back to the home page by clicking on “HOME” on the home bar.
 
+### Interactive Prototypes Supported by the System
+
+1. Find information through the Help page that support users, especially first-time users to navigate information more efficiently
+
+2. An International subpage under COMMUNITY. This page helps international students to find news and support on a global scope
+
+3. To learn more about OutWrite through browsing on the About page for promoting the organization as well as facilitating with marketing and outreach. 
+
+4. To navigate specific information, topics or items in an efficient manner through using the Search interactive hover box. 
+
+5. A HOME button on the home bar that reassure the visitors that they can go back to the original page anytime they want, and that they are at the right place. 
 
