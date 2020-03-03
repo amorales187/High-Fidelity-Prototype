@@ -22,3 +22,7 @@ prototype wireflow url: https://www.figma.com/file/n9RDO3jEsCijPChiwYyOJK/OutWri
 
 - A HOME button on the home bar that reassure the visitors that they can go back to the original page anytime they want, and that they are at the right place. 
 
+### Prototype 
+
+<img width="912" alt="allscreensnew" src="https://user-images.githubusercontent.com/59623164/75747636-54928f00-5cd2-11ea-9204-991445309306.png">
+
